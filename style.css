@@ -104,18 +104,4 @@
     transform: rotate(-120deg);
 }
 
-.numbers:nth-child(9) {
-    transform: rotate(30deg);
-}
 
-.numbers:nth-child(10) {
-    transform: rotate(30deg);
-}
-
-.numbers:nth-child(11) {
-    transform: rotate(30deg);
-}
-
-.numbers:nth-child(12) {
-    transform: rotate(30deg);
-}
