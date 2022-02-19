@@ -68,7 +68,7 @@
     display: block;
     color: white;
     font-size: 38px;
-    text-shadow: 0 5px 18px black, 0 2px 3px black;
+    text-shadow: 0 5px 18px #00000026, 0 2px 3px #00000033;
 }
 
 .numbers:nth-child(1) {
